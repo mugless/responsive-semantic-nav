@@ -1,2 +1,2 @@
-# Responsive Navigation
+# Responsive Semantic Only Navigation
 This navigation uses semantic HTML and CSS only, with no classes or JavaScript.
